@@ -1,0 +1,15 @@
+{
+  "name": "meal-finder-master",
+  "version": "1.0.0",
+  "description": "meal finder juned ali",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "juned"
+  ],
+  "author": "juned",
+  "license": "ISC"
+}
